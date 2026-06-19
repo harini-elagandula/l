@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+seaborn
+openai
